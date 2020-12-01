@@ -45,3 +45,10 @@ title: Persyaratan Akreditasi Perguruan Tinggi
    - [ ] Kesesuaian bidang kerja lulusan dari program utama di Perguruan Tinggi terhadap kompetensi bidang studi
    - [ ] Tingkat kepuasan pengguna lulusan dinilai terhadap aspek:  1) Etika, 2) Keahlian pada bidang ilmu (kompetensi utama), 3) Kemampuan berbahasa asing, 4) Penggunaan teknologi informasi, 5) Kemampuan berkomunikasi, 6) Kerjasama tim, 7) Pengembangan diri.
    - [ ] Tingkat dan ukuran tempat kerja lulusan.
+   
+**4. Indikator aspek penelitian dan pengabdian kepada masyarakat**
+   - [ ] Jumlah publikasi di jurnal dalam 3 tahun terakhir
+   - [ ] Jumlah publikasi di seminar / tulisan di media massa dalam 3 tahun terakhir.
+   - [ ] Jumlah artikel karya ilmiah dosen tetap yang disitasi dalam 3 tahun terakhir (pada Perguruan Tinggi akademik)
+   - [ ] Jumlah produk/jasa yang diadopsi oleh industri / masyarakat dalam 3 tahun terakhir (pada Perguruan Tinggi vokasi).
+   - [ ] Jumlah luaran penelitian dan PkM dosen tetap dalam 3 tahun terakhir.
